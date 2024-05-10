@@ -1,0 +1,9 @@
+,"Plasmodium asexual stages, by microscopy",Delivery Mode,"Cytomegalovirus, by PCR",Vaginal infection,Mom reported antibiotic use during pregnancy,Chills,HIV status,Fever during labor
+Negative,0.0,,0.0,,,,0.0,
+Positive,1.0,,1.0,,,,1.0,
+,2.0,,,2.0,2.0,2.0,,
+No,,0.0,,0.0,0.0,0.0,,
+Yes,,1.0,,1.0,1.0,1.0,,
+Unknown,,,,,,,2.0,
+Afebrile,,,,,,,,0.0
+Febrile,,,,,,,,1.0
