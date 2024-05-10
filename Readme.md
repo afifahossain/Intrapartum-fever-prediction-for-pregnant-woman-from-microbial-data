@@ -1,3 +1,5 @@
+                        Intrapartum fever prediction for pregnant woman from microbial data
+
 The usage of deep learning in microbial data has come a long way since its early days. For fever detection during pregnancy, this paper collects microorganism data from vaginal microbes and trains machine-learning models to classify their
 class, taxa, phylum, and distribution. This paper presents a novel approach to predicting the etiology of intrapartum fever in pregnant women using machine learning classifiers on vaginal
 microbial data. High-throughput sequencing was used to analyze a diverse dataset of microbiome abundance profiles. Various classification algorithms were employed to develop predictive
